@@ -1,6 +1,6 @@
 *** Settings ***
 
-Resource    Resources/commons.robot
+Library    SeleniumLibrary
 
 *** Variables ***
 
